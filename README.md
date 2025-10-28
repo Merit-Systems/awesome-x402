@@ -46,7 +46,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
-
+- [x402proxy server (Proxy Server & API)](https://github.com/zachalam/x402proxy)
 
 ### Standards and EIPs
 - [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers.
