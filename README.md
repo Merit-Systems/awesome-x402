@@ -47,6 +47,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-sovereign - SDK for Self-hosting your Facilitator](https://github.com/Dhaiwat10/x402-sovereign)
+- [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
+- [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
 
 
 ### Standards and EIPs
@@ -66,6 +68,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [MCP Server with x402 Guide](https://docs.cdp.coinbase.com/x402/mcp-server)
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
+- [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
@@ -76,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
+- [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
 
 
 ### Security & Ops
@@ -91,6 +95,10 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402: Building dynamic tools for AI agents, demos, and use-cases.](https://www.youtube.com/watch?v=pL5LxhZ8iCY)
 - [Agent Bootcamp with x402 I Lincoln Murr](https://www.youtube.com/watch?v=GtrX9gHfLak)
 - [Eliza Social Club: The latest with x402 and autonomous agents](https://www.youtube.com/watch?v=gvLWsY3l_zU)
+- [x402 Explained in 42 Seconds – Yinka](https://x.com/geniusyinka/status/1980682227173163014) – Short video explainer by Yinka introducing the x402 protocol.
+- [Customize Your x402 Paywalls – Koha](https://x.com/kohawithstuff/status/1982521924287943148) – 41-second video by Koha showing how to set up and customize x402 paywalls.
+- [Building Apps and Agents with x402 – EigenCloud Broadcast](https://x.com/i/broadcasts/1OwxWerawqAGQ) – X broadcast with Dhaiwat and EigenCloud on building AI agents using x402.
+- [x402 Explained in 100 Seconds – Nader Dabit](https://x.com/dabit3/status/1982483131979735078) – Nader Dabit breaks down x402's purpose and shares key developer resources.
 
 ### Podcasts & Media
 - [Cognitive Revolution Podcast – "402 Payment Required"](https://www.cognitiverevolution.ai/402-payment-required-a-new-way-for-ai-agents-to-pay-with-nemil-dalal-dev-platform-lead-coinbase/)
