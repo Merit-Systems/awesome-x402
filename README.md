@@ -58,6 +58,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 #### Extensions
 - [ERC-3009 Forwarding](https://github.com/TheGreatAxios/eip3009-forwarder): forwarding contract extending meta-transactions with EIP-721 signatures to any ERC-20 on any network
+- [x402X Protocol](https://www.x402x.dev/): an extension protocol to x402, enabling an arbitrary contract call with an x402 payment. 
 
 ### Tutorials & Guides
 - [QuickNode – How to Implement a Crypto Paywall with x402](https://www.quicknode.com/guides/infrastructure/how-to-use-x402-payment-required)
