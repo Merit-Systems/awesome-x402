@@ -60,6 +60,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [ERC-3009 Forwarding](https://github.com/TheGreatAxios/eip3009-forwarder): forwarding contract extending meta-transactions with EIP-721 signatures to any ERC-20 on any network
 
 ### Tutorials & Guides
+- [X402 Postman Collection - New to x402? Learn How X402 works](https://www.postman.com/maintenance-observer-51406799-455462/x402instant-s-workspace/collection/50941807-1192cd8c-0c16-414b-b0e1-0a5552333ef5/?action=share&creator=50941807)
 - [QuickNode – How to Implement a Crypto Paywall with x402](https://www.quicknode.com/guides/infrastructure/how-to-use-x402-payment-required)
 - [Circle Blog – Autonomous Payments using Circle Wallets, USDC, and x402](https://www.circle.com/blog/autonomous-payments-using-circle-wallets-usdc-and-x402)
 - [x402 Quickstart for Sellers](https://docs.cdp.coinbase.com/x402/quickstart-for-sellers)
