@@ -84,8 +84,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
+- [PolicyLayer](https://policylayer.com) – Non-custodial spending controls for AI agents with crypto wallets. Enforces daily spending limits, per-transaction caps, recipient whitelists, and rate limiting — all without holding private keys. Prevents wallet drains from bugs, prompt injection attacks, or infinite loops. [GitHub](https://github.com/PolicyLayer/PolicyLayer) | [npm](https://www.npmjs.com/package/@policylayer/sdk)
 
-### Benchmarks & Analysis
+### Benchmarks
 - [Dev.to – x402 vs Traditional Payments (Micropayments)](https://dev.to/pathak_prakarsh/x402-finally-payments-built-for-the-internet-not-bolted-onto-it-1058)
 
 ### Videos
