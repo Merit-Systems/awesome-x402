@@ -24,7 +24,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Ecosystem
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
-- [Einstein AI](https://emc2ai.io) - 23 blockchain intel endpoints with x402 payments
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
 ### Facilitators & Networks
@@ -73,6 +72,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
+- [Einstein AI](https://emc2ai.io) - AI blockchain intelligence with 23 x402 endpoints for whale tracking, smart money analysis, launchpad monitoring, and security audits.
 - [Pinata – Pay to Pin on IPFS with x402](https://pinata.cloud/blog/pay-to-pin-on-ipfs-with-x402/)
 - [Pinata 402-server (Code)](https://github.com/PinataCloud/402-server)
 - [Pinata – Monetize AI Hardware (Jetson) with x402](https://pinata.cloud/blog/using-x402-to-monetize-ai-hardware/)
