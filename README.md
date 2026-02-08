@@ -32,7 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
-- [Primev FastRPC Facilitator (Ethereum Mainnet)](https://x402-facilitator-gold.vercel.app) — Fee-free USDC settlement with sub-200ms preconfirmations via [mev-commit](https://mev-commit.xyz)
+- [Primev FastRPC Facilitator (Ethereum Mainnet)](https://facilitator.primev.xyz) — Fee-free USDC settlement with sub-200ms preconfirmations via [mev-commit](https://mev-commit.xyz)
 
 
 ### Open Source & SDKs
