@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [A2A x402 Gateway](https://a2a.opspawn.com) - Google A2A-native x402 payment gateway supporting Base, SKALE, and Arbitrum. Open source at [opspawn/a2a-x402-gateway](https://github.com/opspawn/a2a-x402-gateway).
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
