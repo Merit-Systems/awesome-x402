@@ -26,6 +26,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
+### x402 Service Providers
+- [Apollo Intelligence Network](https://apolloai.team) - 27 x402-gated intelligence endpoints (agent trends, pain points, OSINT, DeFi yields, crypto prices, web scraping, proxy relay). USDC on Base. [MCP Server](https://www.npmjs.com/package/@apollo_ai/mcp-proxy) (26 tools), [x402 Manifest](https://apolloai.team/.well-known/x402-manifest).
+
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
 -- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
