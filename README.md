@@ -69,6 +69,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
 
+### Live Services
+- [Gloria AI](https://itsgloria.ai) - AI-powered crypto news intelligence with x402 micropayments on Base. Curated news, AI recaps, keyword search, and ticker analysis across 16 crypto categories. [AgentCard](http://lucid.itsgloria.ai:3004/.well-known/agent-card.json)
+
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
