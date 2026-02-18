@@ -32,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [Dexter Facilitator & Supported Networks](https://dexter.cash/facilitator) - #1 x402 facilitator on Solana by volume (38M+ settlements). Supports Solana, Base, Polygon, Arbitrum, Optimism, Avalanche. Free public facilitator with no rate limits.
 
 
 ### Open Source & SDKs
@@ -44,6 +45,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [thirdweb/x402 (Github)](https://github.com/thirdweb-dev/js/tree/main/packages/thirdweb/src/x402)
 - [Faremeter (Typescript Facilitator, Middleware, and Examples)](https://github.com/faremeter/faremeter)
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
+- [Dexter x402 SDK (@dexterai/x402)](https://www.npmjs.com/package/@dexterai/x402) - TypeScript SDK for x402 on Solana with Stripe integration. Includes facilitator client, middleware, and payment helpers.
+- [Dexter Lab](https://lab.dexter.cash) - x402 API marketplace on Solana. Deploy APIs and AI agents pay USDC per call. 600+ merchants, 70/30 revenue split.
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
