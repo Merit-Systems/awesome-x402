@@ -82,6 +82,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 
 ### Security & Ops
+- [PolicyLayer](https://policylayer.com) - Non-custodial spending controls for x402 agent payments. Per-endpoint limits, daily caps, recipient allowlists, rate limiting, circuit breakers, and audit proofs.
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
 
