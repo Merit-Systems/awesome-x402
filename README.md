@@ -117,3 +117,4 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### License
 This list is offered under CC0; see upstream specs for their respective licenses.
+- [serve402 — Dual-Chain x402 Agent Gateway](https://serve402.com) ([Code](https://github.com/justinnevins/x402-gateway)): Multi-service x402 gateway supporting both Base (USDC) and XRPL (XRP) payments. 4 endpoints: web scraping, code execution, screenshots, PDFs. First x402 gateway with native XRPL support via t54.ai facilitator.
