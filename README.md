@@ -117,3 +117,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### License
 This list is offered under CC0; see upstream specs for their respective licenses.
+
+### Production Gateways
+- [Pylon](https://pylonapi.com) — x402-payable utility API gateway for AI agents. 20 capabilities (web extraction, search, translation, code execution, image generation) on Base mainnet. MCP server (`npx @pylonapi/mcp`). ([GitHub](https://github.com/pylon-apis/pylon-mcp))
