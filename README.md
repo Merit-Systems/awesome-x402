@@ -20,6 +20,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [GitHub repo](https://github.com/coinbase/x402) — issues, proposals, and reference materials
   - [Issues](https://github.com/coinbase/x402/issues)
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
+- [Algorand Official x402 integration announcement](https://algorand.co/blog/x402-unlocking-the-agentic-commerce-era)
 
 ### Ecosystem
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
@@ -32,6 +33,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [GoPlausible Facilitator for Algorand & Other Supported Networks](https://x402.goplausible.xyz)
 
 
 ### Open Source & SDKs
@@ -48,6 +50,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
+- [x402-Algorand (GitHub)](https://github.com/GoPlausible/.github/blob/main/profile/algorand-x402-documentation/README.md) - x402 NPM and PyPi packages, example code and template projects for Algorand's AVM, enabling x402 development and deployments on Algorand networks.
 
 
 ### Standards and EIPs
@@ -68,6 +71,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
+- [How to Get Started with x402 on Algorand](https://algorand.co/agentic-commerce/x402/developers) – Official Algorand guide for integrating x402 payments on Algorand networks.
 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
@@ -79,6 +83,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [x402 Examples on Algorand](https://x402.goplausible.xyz)
 
 
 ### Security & Ops
@@ -105,6 +110,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [RelayMag – x402 Handshake Explainer](https://therelaymag.com/x402-the-paywall-handshake-that-lets-agents-pay-the-web)
 - [Boosty Labs Blog – AI Agents That Pay Their Own Bills](https://boostylabs.com/ai-agents-that-pay-their-own-bills)
 - [a16z – The Month Fintechs Embraced Stablecoins (mentions x402)](https://a16zcrypto.com/posts/article/making-sense-of-stablecoin-news/)
+
 
 ### Community
 - [Reddit – r/x402](https://www.reddit.com/r/x402/)
