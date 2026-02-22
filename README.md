@@ -25,7 +25,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
-- [AnyBrowse](https://anybrowse.dev) - Autonomous web browsing agent with x402 micropayments. Converts any URL to clean, LLM-ready Markdown via real Chrome browsers. Accepts USDC on Base.
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
@@ -81,6 +80,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
 
+### Live Services
+- [AnyBrowse](https://anybrowse.dev) ([GitHub](https://github.com/kc23go/anybrowse)) – Convert any URL to LLM-ready Markdown via real Chrome browsers. x402 pay-per-request with USDC on Base. Also available as a free MCP server.
 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
