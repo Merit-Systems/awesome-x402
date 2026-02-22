@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Obol](https://obol.fixr.nexus) - Agent-to-agent x402 payment protocol on Monad with bonding curve token launches and nonce-based replay protection.
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
@@ -48,6 +49,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
+- [x402-stacks (Clarity)](https://github.com/the-fixr/x402-stacks) - x402 payment contracts and curve router for Stacks (Bitcoin L2), with agent registry and bonding curve integration
+- [Obol (Monad)](https://github.com/the-fixr/obol) - Agent-to-agent x402 payment protocol on Monad with bonding curve token launches, nonce-based replay protection, and Uniswap V3 post-graduation routing
 
 
 ### Standards and EIPs
@@ -79,6 +82,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [Scry x402 API](https://scry.fixr.nexus) – Live pay-per-call token intelligence API on Base with endpoints for tokens, signals, leaderboard, and price data.
 
 
 ### Security & Ops
