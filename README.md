@@ -81,6 +81,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
 
 
+### Live Services
+- [LimitGuard Trust Intelligence API](https://limitguard.ai) - B2B entity verification and risk scoring API with x402 per-request billing on Solana. 8 data sources, MCP-compatible. [API Docs](https://docs.limitguard.ai) | [x402 Discovery](https://api.limitguard.ai/.well-known/x402.json)
+
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
