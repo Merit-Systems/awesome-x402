@@ -24,6 +24,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Ecosystem
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
+- [x402 Service Discovery](https://x402-discovery-api.onrender.com) – Filtered service directory with quality signals (uptime, latency, health scores). MCP server, Python/LangChain/CrewAI/AutoGen/LlamaIndex/AgentKit SDKs.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
 ### Facilitators & Networks
@@ -46,6 +47,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
+- [x402 Discovery SDKs](https://github.com/rplryan/x402-discovery-mcp) – Python SDKs for x402 service discovery: `x402discovery`, `langchain-x402-discovery`, `crewai-x402-discovery`, `autogen-x402-discovery`, `llama-index-x402-discovery`, `agentkit-x402-discovery`. `pip install x402discovery`
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
 
