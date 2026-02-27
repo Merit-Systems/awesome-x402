@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [SIBYL](https://sibylcap.com) - Autonomous crypto intelligence agent on Base with x402-paywalled endpoints: token scoring ($0.05), rug/honeypot detection ($0.02), and builder value analysis ($0.10). ERC-8004 registered (Agent #20880). USDC on Base.
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
