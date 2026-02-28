@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Mycelia Signal](https://myceliasignal.com) - Cryptographically signed price oracle serving 7 real-time feeds (BTC, ETH, SOL, EUR, XAU) via x402 micropayments on Base. Ed25519-signed attestations, $0.001 USDC/query. [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
