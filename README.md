@@ -81,6 +81,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
 
 
+- [APIMesh (apimesh.xyz)](https://apimesh.xyz) – Autonomous x402 API mesh: AI brain scouts demand, generates APIs with GPT-4.1, deploys with pay-per-call USDC micropayments. 11 live endpoints. [Code](https://github.com/mbeato/conway)
+
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
