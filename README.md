@@ -84,6 +84,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
+- [MoltGuard](https://api.moltrust.ch/guard/) – All-in-one trust & integrity API for the x402 agent economy. Agent trust scoring (0–100), Sybil detection, prediction market integrity checks, and Ed25519-signed Verifiable Credentials. x402-native on Base mainnet. ([GitHub](https://github.com/moltrust/moltguard))
 
 ### Benchmarks & Analysis
 - [Dev.to – x402 vs Traditional Payments (Micropayments)](https://dev.to/pathak_prakarsh/x402-finally-payments-built-for-the-internet-not-bolted-onto-it-1058)
