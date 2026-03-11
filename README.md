@@ -48,6 +48,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
+- [agent-wallet-sdk (NPM)](https://www.npmjs.com/package/agentwallet-sdk) - Non-custodial multi-chain wallet SDK for AI agents with native x402 payment support, CCTP cross-chain transfers, and CowSwap solver integration.
 
 
 ### Standards and EIPs
