@@ -117,3 +117,5 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### License
 This list is offered under CC0; see upstream specs for their respective licenses.
+- [Prediction Market Analyst (x402 AI Intelligence Service)](https://prediction-market-analyst.vercel.app) — Pay-per-query prediction market analysis: probability estimation, Kelly sizing, market scanning, and ensemble signals. Built with x402-express on Vercel.
+- [Hardware Product Manager (x402 AI Analyst)](https://hardware-pm-analyst.vercel.app) — Pay-per-query hardware product intelligence: competitive analysis, PRDs, VC due diligence teardowns, and market viability scoring. Built with x402-express on Vercel.
