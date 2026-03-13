@@ -45,6 +45,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Faremeter (Typescript Facilitator, Middleware, and Examples)](https://github.com/faremeter/faremeter)
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
+- [PayCrow](https://github.com/michu5696/paycrow) - Escrow protection with on-chain dispute resolution for AI agent payments on Base. 9 MCP tools including trust-informed smart escrow and trust scoring. $0.001 USDC per trust query via x402. ([npm](https://www.npmjs.com/package/paycrow)) | [Live API](https://paycrow-app.fly.dev)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
