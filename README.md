@@ -70,6 +70,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
 
 ### Example Apps
+- [DeepBlue Trading API](https://api.deepbluebase.xyz) – Live pay-per-call DeFi research and trading signal API on Base. Real-money autonomous trading bot signals, token analysis (AI-powered), wallet portfolio scans, and DEX price feeds. USDC on Base via PayAI facilitator. From $0.02/call. [Docs](https://api.deepbluebase.xyz/docs)
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
 - [Pinata – Pay to Pin on IPFS with x402](https://pinata.cloud/blog/pay-to-pin-on-ipfs-with-x402/)
