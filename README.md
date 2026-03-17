@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Arch Tools](https://archtools.dev) - Unified API platform with 61 production tools (AI, crypto, web scraping, code generation, OCR, and more). AI agents pay per-call with USDC via x402 on Base, Polygon, Avalanche, and Solana. MCP-compatible. ([OpenAPI](https://archtools.dev/openapi.json)) | ([x402 Discovery](https://archtools.dev/.well-known/x402))
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
