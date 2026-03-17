@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [ATXP – Agent Identity & Payment Infrastructure](https://github.com/atxp-dev/atxp) – One command registers an AI agent with a USDC wallet on Base, `@atxp.email` inbox, and 100+ x402-paid MCP tools (web search, image gen, LLM). The agent is both an x402 payer and can receive USDC payments.
 
 
 ### Security & Ops
