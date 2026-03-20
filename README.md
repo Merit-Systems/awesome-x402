@@ -22,6 +22,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
 ### Ecosystem
+- [Stockfilm](https://stockfilm.com) - 217,000+ authentic vintage 8mm home movie clips (1930s-1980s). License archival footage via x402 USDC on Solana and Base. MCP server with 6 tools. ([MCP](https://api.stockfilm.com/mcp)) ([GitHub](https://github.com/ReplicantArmy/stockfilm-mcp))
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
