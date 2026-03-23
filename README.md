@@ -22,6 +22,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
 ### Ecosystem
+- [DeepBlue API](https://api.deepbluebase.xyz) - Real-time crypto market data and trading signals via x402 micropayments on Base. 8 endpoints including signals, prices, token analysis, wallet tracking, and Polymarket odds. $0.001–$0.01 USDC. ([OpenAPI](https://api.deepbluebase.xyz/.well-known/openapi.json))
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
