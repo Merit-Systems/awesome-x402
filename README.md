@@ -48,7 +48,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
-
+- [Yantrix](https://yantrix.ai) — 25 pay-per-call AI APIs for agents — fact verification, code review, document intelligence, Indian data, crypto, finance. 51 MCP tools via `npx @yantrixai/mcp`. USDC on Base.
 
 ### Standards and EIPs
 - [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers.
