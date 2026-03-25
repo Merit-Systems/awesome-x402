@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [ToolOracle](https://tooloracle.io) — x402 entitlement gateway with 10 paid MCP servers (90+ tools) across SEO, e-commerce, memecoin, DeFi, travel, news, jobs, and macro economics. $0.02–$0.15/call USDC on Base. [Discovery](https://tooloracle.io/.well-known/x402). Companion: [FeedOracle](https://feedoracle.io) (53 MiCA/DORA compliance MCP tools).
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
