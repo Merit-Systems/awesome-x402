@@ -117,3 +117,5 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### License
 This list is offered under CC0; see upstream specs for their respective licenses.
+
+- [AgentBridge](https://github.com/tianzizhiming-svg/agentbridge) — Pay-per-fetch gateway for Chinese web content (Xiaohongshu, Zhihu, etc.). Returns clean markdown, settled in USDC on Base via x402.
