@@ -22,6 +22,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
 ### Ecosystem
+- [pellet.fi](https://pelletfi.com) - x402-native token risk intelligence on Base. Free contract analysis and safety flags, $0.01 USDC for full AI evaluation via x402. Agent API with [.well-known/x402](https://pelletfi.com/.well-known/x402) auto-discovery.
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
