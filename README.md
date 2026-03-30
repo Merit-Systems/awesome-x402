@@ -25,6 +25,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [SwarmX (swarms-x402)](https://swarmx.io) — Multi-agent AI orchestration with native x402 micropayments on Solana. 49 endpoints, 39 MCP tools, dual LLM, knowledge/RAG with pgvector. $0.001–$5/call USDC. ([GitHub](https://github.com/SolTwizzy/swarms-x402)) ([npm](https://www.npmjs.com/package/swarms-x402))
+
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
@@ -48,6 +50,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
+
+- [SwarmX / swarms-x402 (npm)](https://www.npmjs.com/package/swarms-x402) — TypeScript multi-agent AI orchestration with x402 micropayments. ElizaOS v2 plugin. ([GitHub](https://github.com/SolTwizzy/swarms-x402))
 
 
 ### Standards and EIPs
