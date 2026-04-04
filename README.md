@@ -117,3 +117,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### License
 This list is offered under CC0; see upstream specs for their respective licenses.
+
+## TRON
+- [MERX x402 Facilitator](https://x402.merx.exchange) - First x402 facilitator for TRON. Supports USDT, USDC, USDD. Sub-3s confirmation for micropayments. [Express middleware](https://npmjs.com/package/merx-x402) | [Documentation](https://github.com/Hovsteder/x402-tron)
