@@ -32,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [Satoshi Facilitator (Base + Solana)](https://x402-facilitator.happysmoke-e4fd0a77.eastus.azurecontainerapps.io) ([GitHub](https://github.com/Bortlesboat/x402-facilitator)) — Open-source multi-chain facilitator with gas sponsoring, bazaar discovery, and settlement history API.
 
 
 ### Open Source & SDKs
