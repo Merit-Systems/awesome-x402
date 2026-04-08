@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [AgentShield DEX Spread Oracle](https://europe-west1-arbitrage-agent-prod.cloudfunctions.net/dex-spread-oracle) – Real-time Uniswap V3 price feeds on Base chain with cross-pair spread analysis. Pay-per-query via x402 ($0.01 USDC). [ERC-8004 Agent Card](https://8004agents.ai/agent/38580).
 
 
 ### Security & Ops
