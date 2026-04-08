@@ -120,4 +120,4 @@ This list is offered under CC0; see upstream specs for their respective licenses
 
 ### Services & APIs
 
-- [Aethel-Nexus AAAA](https://aaaa-nexus.atomadictech.workers.dev) — 22-endpoint AI infrastructure API with x402 USDC gating on Base L2. Streaming CoT inference ($0.025/call), Leech lattice compression (8:1, Lean 4 proven, $0.05/call), AIBOM drift detection ($0.05/call), EU AI Act compliance ($0.015/call), agent swarm relay ($0.002/msg), and 16 more. No account needed. Google A2A agent card at `/.well-known/agent.json` with 22 skills + machine-readable pricing manifest.
+- [AAAA-Nexus](https://aaaa-nexus.atomadictech.workers.dev) — Hosted AI infrastructure with x402 pay-per-call access, MCP support, and agent-card based discovery.
