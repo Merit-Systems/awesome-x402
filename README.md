@@ -117,3 +117,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### License
 This list is offered under CC0; see upstream specs for their respective licenses.
+
+### DeFi & Trading
+- **[PoolPulse](https://poolpulse.poolpulse.workers.dev)** — x402-payable DEX execution signals API. Pre-computed CLMM slippage, MEV scores, and routing for 33 Uniswap V3 + Aerodrome pools on Base. $0.001-$0.25/call. [Example Agent](https://github.com/HadiFrt20/poolpulse-agent-example) | [OpenAPI](https://poolpulse.poolpulse.workers.dev/openapi.json)
