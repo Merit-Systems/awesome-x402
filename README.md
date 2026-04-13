@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [agentsvc.io](https://agentsvc.io) - Live pay-per-call service marketplace for AI agents. 20 utility tools (screenshots, OCR, PDF, web search, weather, forex, crypto/stock prices, geocoding, translation, and more) via x402 USDC micropayments. No API keys. MCP server included. $0.001–$0.008 per call.
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
