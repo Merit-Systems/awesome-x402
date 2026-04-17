@@ -22,6 +22,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
 ### Ecosystem
+- [BitcoinsAPI.com](https://bitcoinsapi.com/) - Production Bitcoin fee intelligence API with x402-protected endpoints for fees, mempool insights, and agent workflows.
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
@@ -29,6 +30,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
 -- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
+- [BitcoinsAPI Facilitator](https://facilitator.bitcoinsapi.com/.well-known/x402) - Hosted facilitator for BitcoinsAPI.com with Base, Base Sepolia, Solana Mainnet, and Solana Devnet support.
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
