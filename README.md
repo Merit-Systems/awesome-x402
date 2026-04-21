@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Fly Labs Agentic Market](https://flylabs.fun/agents) - YouTube data APIs for AI agents. Verbatim transcripts ($0.03) and engagement data ($0.02) — views, likes, comments, subscribers, ratios, tags. USDC on Base via x402, Coinbase CDP facilitator. Versioned schemas, no signup. ([Manifest](https://flylabs.fun/api/agents) · [OpenAPI](https://flylabs.fun/api/agents/openapi.json) · [.well-known/x402](https://flylabs.fun/.well-known/x402))
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
