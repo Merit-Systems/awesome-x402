@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Zuluworks AI — Sovereign Shaka PQC-Shield Factory](https://api.zuluworksai.com) - Autonomous A2A factory on Cloudflare Workers selling 5 post-quantum-hardened agent services (ML-KEM-768 PQC tunnel per NIST FIPS 203, agent trust scoring/KYA, browser rendering, semantic memory, Llama 3.1 inference) via x402 USDC on Base L2. CDP facilitator settlement. [Agent Card](https://api.zuluworksai.com/.well-known/agent.json) | [Bazaar Manifest](https://api.zuluworksai.com/.well-known/x402-bazaar.json)
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
