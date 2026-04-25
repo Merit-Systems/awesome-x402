@@ -110,7 +110,10 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Reddit – r/x402](https://www.reddit.com/r/x402/)
 - [Discord – Coinbase Developer Platform](https://discord.com/invite/cdp)
 
-### Contributing
+#
+- [x402-solana-data](https://x402-solana-data.onrender.com) - Real-time Solana trading data API. 6 endpoints for AI agents: trending tokens, token analysis, momentum, rug check, whales, snipe targets. USDC on Solana mainnet.
+
+## Contributing
 - Add high-signal links: specifications, reference implementations, deep-dive posts, audits, and example apps.
 - Prefer primary sources and canonical specifications.
 - Submit a PR with a concise description; group items under existing sections when possible.
