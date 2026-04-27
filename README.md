@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [Social Intel API](https://socialintel.dev) — Pay-per-request Instagram influencer search API. x402 USDC on Base, Solana, Polygon, Arbitrum. MCP server, OpenAPI, free demo. ([MCP Repo](https://github.com/socialintel/social-intel-mcp))
 
 
 ### Security & Ops
