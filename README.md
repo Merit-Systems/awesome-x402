@@ -32,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [agenticpay Facilitator (Solana, open-source TypeScript)](https://github.com/krystiangw/agenticpay/tree/main/packages/facilitator) — Self-hostable verify+settle with `feePayer` abstraction (payers send only USDC). Hosted devnet endpoint: `https://agentpay-facilitator-e9b20a5fee6a.herokuapp.com`.
 
 
 ### Open Source & SDKs
@@ -48,6 +49,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
+- [agenticpay (npm @agenticpay/*)](https://github.com/krystiangw/agenticpay) — Open-source TypeScript x402 stack for MCP on Solana. Includes SDK, CLI, paywall middleware, self-hostable facilitator, Eliza plugin. Live Claude Opus demo paying autonomously, on-chain settled in ~2s. MIT.
 
 
 ### Standards and EIPs
