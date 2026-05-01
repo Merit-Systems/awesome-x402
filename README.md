@@ -24,6 +24,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Ecosystem
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
+- [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar) - Free public leaderboard of every paid x402 service indexed via the Coinbase CDP discovery API. Refreshed every 15 min, four views (top by volume / unique payers / recently active / cheapest), JSON variant at `/bazaar.json`. Complementary CDP-only slice next to x402Scan's multi-source view.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
 ### Facilitators & Networks
