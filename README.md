@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Suede](https://app.suedeai.xyz) - x402-paid AI music and video generation. Live `402` challenges on `/agent/generate`, `/create-music`, and `/agent/video`. Discovery via `/.well-known/x402` and `/.well-known/agent-card.json`. ACP-ready commerce intent endpoint. USDC on Base. ([Endpoint reference](https://github.com/Suede-AI/suede-x402-acp))
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
