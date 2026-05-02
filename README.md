@@ -32,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [Voidly Pay Facilitator (Base + Voidly-Credit)](https://api.voidly.ai/v1/pay/x402) — USDC-backed Sourcify-verified vault on Base mainnet (`0xb592512932a7b354969bb48039c2dc7ad6ad1c12`), Stage 2 live. 11 paid endpoints listed at [marketplace](https://api.voidly.ai/v1/pay/marketplace) including signed citation receipts and country-pinned fetch via 37+ probe network. [Proof of reserves](https://voidly.ai/pay/proof) · [10-credit faucet](https://voidly.ai/pay/claim).
 
 
 ### Open Source & SDKs
@@ -48,6 +49,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
+- [@voidly/pay (npm)](https://www.npmjs.com/package/@voidly/pay) — TypeScript SDK with Express/Hono/fetch x402 middleware, plus `pay.healthCheck()` 6-check trust report.
+- [voidly-pay (PyPI)](https://pypi.org/project/voidly-pay/) — Python SDK with FastAPI dependency and Flask decorator x402 middleware.
+- [@voidly/pay-mcp](https://www.npmjs.com/package/@voidly/pay-mcp) — MCP server with 32 Voidly Pay tools including the v0.3.0 agent-fetch toolkit (voidly_fetch country-pinned URL fetch, voidly_extract PDF→text, voidly_markdown HTML→clean MD, voidly_meta URL metadata). Listed in Anthropic MCP Registry.
 
 
 ### Standards and EIPs
