@@ -32,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [x402-saas (Hosted Onboarding Proxy on Base)](https://x402-saas.surge.sh) — Sign in with a wallet, point at any backend URL, get a paywalled proxy URL in ~60s. Multi-tenant data plane with SIWE auth and slug routing. 1% of routed USDC volume; MIT-licensed self-host alternative at [x402-kit](https://github.com/kite-builds-erik/x402-kit).
 
 
 ### Open Source & SDKs
@@ -48,6 +49,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
+- [x402-kit (TypeScript)](https://github.com/kite-builds-erik/x402-kit) — MIT-licensed Express middleware + slug-routed multi-tenant data plane that powers [x402-saas](https://x402-saas.surge.sh). 38 tests, real x402.rs facilitator wired in.
 
 
 ### Standards and EIPs
