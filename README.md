@@ -32,6 +32,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [AlgoVoi Multi-Protocol Facilitator (7 networks)](https://docs.algovoi.co.uk/concepts/xchain) - x402 + MPP + AP2 facilitator covering Base, Solana, Stellar, Algorand, VOI, Hedera, and Tempo. xChain bridges EVM USDC to Solana (Circle CCTP V2, ~50s), Stellar (Allbridge Core, classic Circle USDC at issuer GA5ZSEJ…), and Algorand from MetaMask without a destination wallet.
+  - [Live `pay.sh`-compatible catalog](https://api.algovoi.co.uk/.well-known/pay-skills.json)
+  - [Discovery (a2a / x402)](https://api.algovoi.co.uk/.well-known/agent-card.json)
 
 
 ### Open Source & SDKs
