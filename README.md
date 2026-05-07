@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [EVM Tx Toolkit (Money Tree)](https://github.com/sebastiancoombs/evm-tx-toolkit) — Live x402 service for Base + Ethereum: `tx/explain` ($0.10), `tx/simulate` ($0.20), and `token/risk_scan` ($0.50). Hono + viem + x402-hono on Cloudflare Workers. Ships with all 5 well-known agent-discovery manifests (A2A, MCP, OpenAI plugin, OpenAPI 3.1, agent-discovery HTML) at the deployed origin.
 
 
 ### Security & Ops
