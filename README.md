@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [arxiv-mcp](https://github.com/sebastiancoombs/arxiv-mcp) – Pay-per-call x402 MCP for arXiv. Two endpoints: `papers/search` ($0.04 — full-text metadata across every STEM preprint with field-level operators) and `papers/by_id` ($0.05 — resolve papers by arXiv id, full metadata + abs/PDF URLs). USDC on Base, no signup, no API key. Live at [arxiv-mcp.mtree.workers.dev](https://arxiv-mcp.mtree.workers.dev).
 
 
 ### Security & Ops
