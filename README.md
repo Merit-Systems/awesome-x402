@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [edgar-mcp](https://github.com/sebastiancoombs/edgar-mcp) – Pay-per-call x402 MCP for SEC EDGAR. Three endpoints: `filings/search` ($0.04 — full-text across every filing since 1993), `filings/by_cik` ($0.05 — recent company filing history), `filings/full_text` ($0.10 — primary-document text). USDC on Base, no signup, no API key. Live at [edgar-mcp.mtree.workers.dev](https://edgar-mcp.mtree.workers.dev).
 
 
 ### Security & Ops
