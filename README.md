@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [defi-position-health-mcp](https://github.com/sebastiancoombs/defi-position-health-mcp) – Pay-per-call x402 MCP for EVM DeFi position health. Two endpoints: `wallet/defi_position_health` ($0.30 — composes Morpho Blue borrow/collateral positions + Aerodrome AERO + veAERO governance lock + Pendle PT (fixed-yield) holdings + Lido LST balances into a 0–100 health score with itemized reasons; multichain), `wallet/defi_protocol_breakdown` ($0.10 — per-protocol position list, single chain, no aggregate score). Five chains: ethereum/base/arbitrum/optimism/polygon. Companion to wallet-portfolio-risk-mcp (Aave/Compound/UniV3) — covers the next-generation DeFi stack. USDC on Base, no signup, no API key. Live at [defi-position-health-mcp.mtree.workers.dev](https://defi-position-health-mcp.mtree.workers.dev).
 
 
 ### Security & Ops
