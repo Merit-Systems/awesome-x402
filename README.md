@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [FPDS-NG MCP (Money Tree)](https://fpds-mcp.mtree.workers.dev/agent-discovery) — Live x402 MCP for the U.S. **Federal Procurement Data System** (every federal contract action since 2001): `contracts/search` ($0.04) and `contracts/by_vendor` ($0.05, returns rows + vendor aggregate). Hono + x402-hono on Cloudflare Workers. Ships all 5 well-known agent-discovery manifests (A2A, MCP, OpenAI plugin, OpenAPI 3.1, agent-discovery HTML) plus an MCP Streamable HTTP transport at `/mcp`. No signup, no API key — pay USDC on Base.
 
 
 ### Security & Ops
