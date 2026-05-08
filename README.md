@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [wallet-portfolio-risk-mcp](https://github.com/sebastiancoombs/wallet-portfolio-risk-mcp) – Pay-per-call x402 MCP for EVM wallet portfolio risk. Two endpoints: `wallet/portfolio_risk` ($0.30 — composes Aave V3 health factor + Compound III debt/liquidation status + Uniswap V3 LP count + top-N ERC-20 holdings concentration + GoPlus token-security flags into a 0–100 risk score with itemized reasons; multichain), `wallet/liquidation_alert_threshold` ($0.10 — Aave V3 + Compound III liquidation slice with urgency level + drop-to-liquidation %). Five chains: ethereum/base/arbitrum/optimism/polygon. USDC on Base, no signup, no API key. Live at [wallet-portfolio-risk-mcp.mtree.workers.dev](https://wallet-portfolio-risk-mcp.mtree.workers.dev).
 
 
 ### Security & Ops
