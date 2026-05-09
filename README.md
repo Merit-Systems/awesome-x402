@@ -79,6 +79,12 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [0x-mcp – x402 MCP wrapper for the 0x DEX-aggregator API](https://github.com/sebastiancoombs/0x-mcp) – Pay-per-call swap quotes / indicative prices / supported sources across Ethereum, Base, Arbitrum, Optimism, Polygon. Live: https://0x-mcp.mtree.workers.dev
+- [1inch-mcp – x402 MCP wrapper for the 1inch v6 Aggregation API](https://github.com/sebastiancoombs/1inch-mcp) – Pay-per-call swap quotes, multi-token spot prices, and liquidity-source registry on 9+ EVM chains. Live: https://1inch-mcp.mtree.workers.dev
+- [coincap-mcp – x402 MCP wrapper for CoinCap v3](https://github.com/sebastiancoombs/coincap-mcp) – Pay-per-call real-time crypto market data: assets list, single-asset spot, historical OHLC, exchange directory. Live: https://coincap-mcp.mtree.workers.dev
+- [coinpaprika-mcp – x402 MCP wrapper for Coinpaprika](https://github.com/sebastiancoombs/coinpaprika-mcp) – Pay-per-call free crypto market data (no upstream API key): coin universe, live tickers, global market stats. Live: https://coinpaprika-mcp.mtree.workers.dev
+- [cryptocompare-mcp – x402 MCP wrapper for CryptoCompare min-api](https://github.com/sebastiancoombs/cryptocompare-mcp) – Pay-per-call multi-exchange crypto data: single price, multi-symbol prices, historical OHLCV bars. No upstream key on free-tier basics. Live: https://cryptocompare-mcp.mtree.workers.dev
+- [messari-mcp – x402 MCP wrapper for Messari](https://github.com/sebastiancoombs/messari-mcp) – Pay-per-call institutional crypto research API: asset profiles, current market metrics, latest news. Live: https://messari-mcp.mtree.workers.dev
 
 
 ### Security & Ops
