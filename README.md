@@ -38,6 +38,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
 - [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
 - [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
+- [x402 Python SDK](https://github.com/x402-foundation/x402/tree/main/python) - Official Python SDK source; the package is also available on [PyPI](https://pypi.org/project/x402/).
+- [x402 Go SDK](https://github.com/x402-foundation/x402/tree/main/go) - Official Go SDK and integration examples for x402 payments.
+- [x402 Java SDK](https://github.com/x402-foundation/x402/tree/main/java) - Official Java SDK for x402 payment integrations.
 - [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
