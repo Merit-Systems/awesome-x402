@@ -79,6 +79,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [gas-tracker-mcp (Code)](https://github.com/sebastiancoombs/gas-tracker-mcp) – Live + historical gas prices across Base/Ethereum/Arbitrum/Optimism/Polygon. RPC-only, no key. Live at https://gas-tracker-mcp.mtree.workers.dev — pay-per-call USDC on Base ($0.005 spot, $0.02 percentiles).
+- [pool-intelligence-mcp (Code)](https://github.com/sebastiancoombs/pool-intelligence-mcp) – Uniswap V3 / Aerodrome / PancakeSwap V3 pool state, tick-liquidity distribution, recent swap stream. RPC-only, no key. Live at https://pool-intelligence-mcp.mtree.workers.dev — pay-per-call USDC on Base ($0.02–$0.03).
+- [liquidation-risk-mcp (Code)](https://github.com/sebastiancoombs/liquidation-risk-mcp) – Aave V3 + Compound III position liquidation-risk checker (health factor, LTV, price-drop-to-liquidation). Multichain. RPC-only, no key. Live at https://liquidation-risk-mcp.mtree.workers.dev — pay-per-call USDC on Base ($0.03/call).
 
 
 ### Security & Ops
