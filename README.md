@@ -84,6 +84,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
+- [Hardening x402: PII-Safe Agentic Payments](https://arxiv.org/abs/2604.11430) - Research paper and companion middleware for filtering sensitive metadata, enforcing spend policy, and detecting replay before x402 payment execution ([code](https://github.com/presidio-v/presidio-hardened-x402)).
 
 ### Benchmarks & Analysis
 - [Dev.to – x402 vs Traditional Payments (Micropayments)](https://dev.to/pathak_prakarsh/x402-finally-payments-built-for-the-internet-not-bolted-onto-it-1058)
