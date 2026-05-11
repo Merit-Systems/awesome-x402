@@ -40,6 +40,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
 - [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
+- [Solana Foundation Pay (x402/MPP CLI and MCP)](https://github.com/solana-foundation/pay) - Local payment layer for handling x402 payment challenges with wallet-authorized stablecoin signing.
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
 - [thirdweb/x402 (Github)](https://github.com/thirdweb-dev/js/tree/main/packages/thirdweb/src/x402)
 - [Faremeter (Typescript Facilitator, Middleware, and Examples)](https://github.com/faremeter/faremeter)
