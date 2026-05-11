@@ -65,6 +65,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Quickstart for Sellers](https://docs.cdp.coinbase.com/x402/quickstart-for-sellers)
 - [x402 Quickstart for Buyers](https://docs.cdp.coinbase.com/x402/quickstart-for-buyers)
 - [MCP Server with x402 Guide](https://docs.cdp.coinbase.com/x402/mcp-server)
+- [x402 Foundation – MCP Server with x402](https://docs.x402.org/guides/mcp-server-with-x402)
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
