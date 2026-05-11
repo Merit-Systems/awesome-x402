@@ -68,6 +68,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
+- [Alchemy - What is x402? The Payment Protocol for AI Agents and Onchain APIs](https://www.alchemy.com/blog/how-x402-brings-real-time-crypto-payments-to-the-web) - Practical overview of x402 payment flow, V2 features, facilitators, and developer entry points.
+- [Chainstack - x402 Protocol Architecture and Payment Flow for AI Agents](https://chainstack.com/x402-protocol-for-ai-agents/) - Technical walkthrough of HTTP 402 request flow, payment authorization, verification, and settlement.
 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
