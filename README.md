@@ -68,6 +68,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
+- [x402 on Stellar](https://developers.stellar.org/docs/build/agentic-payments/x402) - Official Stellar guide covering per-request x402 payments, compatible wallets, facilitators, and quickstart resources.
 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
