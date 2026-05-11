@@ -6,7 +6,7 @@ Curated resources for the x402 ecosystem: specs, repos, standards, and community
 
 ### Quick Links
 - [Website](https://www.x402.org/)
-- [Spec / Repo](https://github.com/coinbase/x402)
+- [Spec / Repo](https://github.com/x402-foundation/x402)
 - [Explorer](https://x402scan.com/)
 
 ### What is x402?
@@ -17,8 +17,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Whitepaper (PDF)](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 Developer Docs Portal](https://docs.cdp.coinbase.com/x402/welcome)
 - [Coinbase Announcement – Introducing x402](https://www.coinbase.com/developer-platform/discover/launches/x402)
-- [GitHub repo](https://github.com/coinbase/x402) — issues, proposals, and reference materials
-  - [Issues](https://github.com/coinbase/x402/issues)
+- [x402 Foundation GitHub repo](https://github.com/x402-foundation/x402) — canonical spec, SDKs, issues, proposals, and reference materials
+  - [Issues](https://github.com/x402-foundation/x402/issues)
+- [Coinbase x402 development fork](https://github.com/coinbase/x402)
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
 ### Ecosystem
@@ -35,9 +36,10 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 
 ### Open Source & SDKs
-- [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
+- [x402 Foundation reference SDKs](https://github.com/x402-foundation/x402)
+- [coinbase/x402 development fork (GitHub)](https://github.com/coinbase/x402)
 - [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
-- [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
+- [x402 TypeScript SDKs](https://github.com/x402-foundation/x402/tree/main/typescript)
 - [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
