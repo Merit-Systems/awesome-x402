@@ -6,7 +6,7 @@ Curated resources for the x402 ecosystem: specs, repos, standards, and community
 
 ### Quick Links
 - [Website](https://www.x402.org/)
-- [Spec / Repo](https://github.com/coinbase/x402)
+- [Spec / Repo](https://github.com/x402-foundation/x402)
 - [Explorer](https://x402scan.com/)
 
 ### What is x402?
@@ -19,8 +19,10 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Whitepaper (PDF)](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 Developer Docs Portal](https://docs.cdp.coinbase.com/x402/welcome)
 - [Coinbase Announcement – Introducing x402](https://www.coinbase.com/developer-platform/discover/launches/x402)
-- [GitHub repo](https://github.com/coinbase/x402) — issues, proposals, and reference materials
-  - [Issues](https://github.com/coinbase/x402/issues)
+- [x402 V2 Launch Note](https://www.x402.org/writing/x402-v2-launch) - official overview of the v2 protocol changes, including modular SDKs, CAIP identifiers, and expanded payment flows.
+- [x402 Foundation GitHub repo](https://github.com/x402-foundation/x402) — canonical spec, SDKs, issues, proposals, and reference materials
+  - [Issues](https://github.com/x402-foundation/x402/issues)
+- [Coinbase x402 development fork](https://github.com/coinbase/x402)
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
 ### Ecosystem
@@ -30,17 +32,20 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
--- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
+- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
 
 
 ### Open Source & SDKs
-- [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
-- [x402-foundation/x402 (GitHub)](https://github.com/x402-foundation/x402) - Reference SDKs and examples maintained under the x402 Foundation.
+- [x402 Foundation reference SDKs](https://github.com/x402-foundation/x402)
+- [coinbase/x402 development fork (GitHub)](https://github.com/coinbase/x402)
 - [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
-- [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
+- [x402 TypeScript SDKs](https://github.com/x402-foundation/x402/tree/main/typescript)
+- [x402 Python SDK](https://github.com/x402-foundation/x402/tree/main/python/x402) - Official Python client/server, facilitator, and MCP helpers.
+- [x402 Go SDK](https://github.com/x402-foundation/x402/tree/main/go) - Official Go client/server, facilitator, and MCP package.
+- [x402 Java SDK](https://github.com/x402-foundation/x402/tree/main/java) - Official Java implementation for JVM services.
 - [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
@@ -67,6 +72,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Circle Blog – Autonomous Payments using Circle Wallets, USDC, and x402](https://www.circle.com/blog/autonomous-payments-using-circle-wallets-usdc-and-x402)
 - [x402 Quickstart for Sellers](https://docs.cdp.coinbase.com/x402/quickstart-for-sellers)
 - [x402 Quickstart for Buyers](https://docs.cdp.coinbase.com/x402/quickstart-for-buyers)
+- [x402 Migration Guide (v1 to v2)](https://docs.cdp.coinbase.com/x402/migration-guide) - official upgrade guide covering header changes, CAIP-2 network IDs, and current v2 SDK package mappings.
 - [MCP Server with x402 Guide](https://docs.cdp.coinbase.com/x402/mcp-server)
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
