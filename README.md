@@ -28,7 +28,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
--- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
+- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
@@ -36,8 +36,11 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Open Source & SDKs
 - [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
-- [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
 - [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
+- [x402 Python SDK (Coinbase)](https://github.com/coinbase/x402/tree/main/python/x402) - Official Python client/server, facilitator, and MCP helpers.
+- [x402 Go SDK (Coinbase)](https://github.com/coinbase/x402/tree/main/go) - Official Go client/server, facilitator, and MCP package.
+- [x402 Java SDK (Coinbase)](https://github.com/coinbase/x402/tree/main/java) - Official Java implementation for JVM services.
+- [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
 - [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
