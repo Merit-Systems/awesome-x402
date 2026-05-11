@@ -25,6 +25,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Hedera and the x402 Payment Standard](https://hedera.com/blog/hedera-and-the-x402-payment-standard/) - Hedera ecosystem overview of x402-style programmable payments for applications and AI agents.
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
@@ -60,6 +61,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [ERC-3009 Forwarding](https://github.com/TheGreatAxios/eip3009-forwarder): forwarding contract extending meta-transactions with EIP-721 signatures to any ERC-20 on any network
 
 ### Tutorials & Guides
+- [Alchemy - What is x402?](https://www.alchemy.com/blog/how-x402-brings-real-time-crypto-payments-to-the-web) - Developer explainer covering the HTTP 402 payment flow, agent use cases, and x402 Foundation context.
 - [QuickNode – How to Implement a Crypto Paywall with x402](https://www.quicknode.com/guides/infrastructure/how-to-use-x402-payment-required)
 - [Circle Blog – Autonomous Payments using Circle Wallets, USDC, and x402](https://www.circle.com/blog/autonomous-payments-using-circle-wallets-usdc-and-x402)
 - [x402 Quickstart for Sellers](https://docs.cdp.coinbase.com/x402/quickstart-for-sellers)
@@ -84,6 +86,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
+- [Compliance-Aware Agentic Payments on Stablecoin Rails](https://arxiv.org/abs/2605.00071) - Research paper on policy and compliance guardrails for x402-style stablecoin payment authorization.
 
 ### Benchmarks & Analysis
 - [Dev.to – x402 vs Traditional Payments (Micropayments)](https://dev.to/pathak_prakarsh/x402-finally-payments-built-for-the-internet-not-bolted-onto-it-1058)
