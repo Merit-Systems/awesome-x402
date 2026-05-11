@@ -25,10 +25,11 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [tollbooth](https://tollbooth.sh/) - YAML-configured x402 API gateway for adding paid access and dynamic pricing in front of existing HTTP APIs.
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
--- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
+- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
@@ -71,6 +72,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
+- [llm402.ai](https://llm402.ai/) - OpenAI-compatible, pay-per-request AI inference using x402, L402, and Cashu payment rails.
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
 - [Pinata – Pay to Pin on IPFS with x402](https://pinata.cloud/blog/pay-to-pin-on-ipfs-with-x402/)
 - [Pinata 402-server (Code)](https://github.com/PinataCloud/402-server)
