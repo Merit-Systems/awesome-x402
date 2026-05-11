@@ -15,6 +15,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Official Resources
 - [x402 Official Website](https://www.x402.org)
 - [x402 Whitepaper (PDF)](https://www.x402.org/x402-whitepaper.pdf)
+- [x402 Foundation Documentation](https://docs.x402.org/) - canonical guides, package references, and implementation examples.
 - [x402 Developer Docs Portal](https://docs.cdp.coinbase.com/x402/welcome)
 - [Coinbase Announcement – Introducing x402](https://www.coinbase.com/developer-platform/discover/launches/x402)
 - [GitHub repo](https://github.com/coinbase/x402) — issues, proposals, and reference materials
@@ -28,7 +29,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
--- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
+  - [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
@@ -36,6 +37,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Open Source & SDKs
 - [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
+- [x402 Python SDK (PyPI)](https://pypi.org/project/x402/) - official Python package for client, server, facilitator, and framework integrations.
 - [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
 - [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
 - [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
