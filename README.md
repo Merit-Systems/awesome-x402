@@ -89,6 +89,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 - [Cloudflare Agents x402 Docs](https://developers.cloudflare.com/agents/agentic-payments/x402/): official Cloudflare guide for charging and paying for resources with x402 in Agents
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
+- [Switchboard X402 Tutorial](https://docs.switchboard.xyz/docs-by-chain/solana-svm/x402/x402-tutorial) - Walkthrough for using x402 micropayments with a paywalled Helius RPC endpoint in Solana oracle workflows.
 - [Privy – Using x402 payments with embedded wallets](https://docs.privy.io/recipes/agent-integrations/x402) – React and Node.js examples for signing x402 payments from Privy wallets.
 - [Magic – x402 Payments with Embedded Wallets](https://docs.magic.link/recipes/embedded-wallets/x402-payments) – Guide for using Magic embedded wallets to pay for x402-protected APIs with USDC.
 
