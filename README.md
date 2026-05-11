@@ -79,6 +79,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [anchor-x402](https://anchor-x402.com) – 15 production x402-paid services (wallet screening, dual-chain anchoring, signature attestation, tx/calldata decode, name resolve, token price, datetime parse, wallet intel, agent-driven risk investigator + 5 universal LLM endpoints). Pay-per-call in USDC on Base or Solana mainnet. Includes a hosted chat agent at [chat.anchor-x402.com](https://chat.anchor-x402.com) and an MCP server ([anchor-x402-mcp on npm](https://www.npmjs.com/package/anchor-x402-mcp)). MIT-licensed: [github.com/hypeprinter007-stack/anchor-x402](https://github.com/hypeprinter007-stack/anchor-x402).
 
 
 ### Security & Ops
