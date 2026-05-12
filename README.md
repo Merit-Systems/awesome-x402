@@ -89,6 +89,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 
 - [agentpay-mcp](https://github.com/up2itnow0822/agentpay-mcp) ([npm](https://www.npmjs.com/package/agentpay-mcp)) - Non-custodial x402 MCP payment server for AI agents. Local signing — no custodial infrastructure. x402 V2 session payments, Base USDC, CCTP cross-chain.
+- [switchboard (kcolbchain)](https://github.com/kcolbchain/switchboard) - Python middleware + on-chain escrow for agent-to-agent payments. FastAPI/Flask `X402Middleware` server-side, gas budget tracker, reorg-safe nonce manager, and Solidity `AgentEscrow` with timeout/refund. ZAP binary wire for high-volume A2A. MIT.
 ### Standards and EIPs
 - [HTTP 402 Payment Required (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402): browser-facing reference for the status code x402 standardizes around.
 - [HTTP 402 Payment Required (IANA Registry)](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml): canonical HTTP status-code registry entry for 402.
