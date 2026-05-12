@@ -46,6 +46,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
+- [@tensorfeed/x402-base-mcp](https://github.com/RipperMercs/tensorfeed-x402-base-mcp) - Read-only Base mainnet chain reader MCP for x402 payment verification. 11 tools: verify on-chain USDC settlement matches a claimed x402 receipt, parse publisher `/.well-known/x402` manifests, list recent USDC payments to an address, check AFTA federation. No private keys; verification only. Published with cryptographic provenance attestations.
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
 
