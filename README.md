@@ -47,6 +47,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Satoshi Facilitator](https://facilitator.bitcoinsapi.com/supported) - Independent x402 facilitator for Bitcoin-focused pay-per-call services with Base, Base Sepolia, Solana Mainnet, and Solana Devnet support.
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [AlgoVoi Multi-Protocol Facilitator (8 networks)](https://docs.algovoi.co.uk/introduction) - x402 + MPP + AP2 facilitator covering Base, Solana, Stellar, Algorand, VOI, Hedera, Tempo, and ARC. xChain bridges EVM USDC to Solana (Circle CCTP V2, ~50s), Stellar (Allbridge Core, classic Circle USDC at issuer GA5ZSEJ…), and Algorand from MetaMask without a destination wallet.
+  - [Live `pay.sh`-compatible catalog](https://api.algovoi.co.uk/.well-known/pay-skills.json)
+  - [Discovery (a2a / x402)](https://api.algovoi.co.uk/.well-known/agent-card.json)
 - [OpenZeppelin Relayer x402 Facilitator](https://docs.openzeppelin.com/relayer/guides/stellar-x402-facilitator-guide) - Stellar x402 facilitator plugin for payment verification and settlement via OpenZeppelin Relayer.
 
 
