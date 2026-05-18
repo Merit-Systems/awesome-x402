@@ -38,6 +38,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Strale](https://strale.dev) - Business data & compliance APIs for AI agents. 250+ quality-scored capabilities (company data, VAT validation, sanctions screening, KYB) across 27 countries with x402 payment support. [MCP server](https://www.npmjs.com/package/strale-mcp) available.
 - [Hedera and the x402 Payment Standard](https://hedera.com/blog/hedera-and-the-x402-payment-standard/) - Hedera ecosystem overview of x402-style programmable payments for applications and AI agents.
 - [CardZero](https://cardzero.ai) - Smart-contract wallet (ERC-4337) for AI agents on Base mainnet, USDC. Buyer-side x402 support via `POST /v1/x402/pay`. Owner-controlled spending rules (per-tx limit, daily cap, whitelist, freeze) enforced on-chain. Also runs first known production deployment of ERC-8004 + ERC-8183.
+- [SmartFlow Observatory](https://smartflowproai.com) - Public observatory for the x402 endpoint network on Base. Canary probes, settlement tracing, weekly Atlas drill-downs. 22,251 endpoints catalogued.
+- [SmartFlow Mapper API](https://api.smartflowproai.com) - JSON REST API exposing 22,251+ catalogued x402 endpoints with uptime, payment-success, and facilitator metadata. Free tier (100 req/day) + paid bulk export.
 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
@@ -144,9 +146,11 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
 - [Compliance-Aware Agentic Payments on Stablecoin Rails](https://arxiv.org/abs/2605.00071) - Research paper on policy and compliance guardrails for x402-style stablecoin payment authorization.
+- [x402-endpoint-validator](https://github.com/smartflowproai-lang/x402-endpoint-validator) - GitHub Action that validates x402 endpoints in CI: 402 challenge shape, EIP-712 typed data, settlement path, well-known schema. Drop-in YAML, MIT licensed. ([Marketplace](https://github.com/marketplace/actions/x402-endpoint-validator))
 
 ### Benchmarks & Analysis
 - [Dev.to – x402 vs Traditional Payments (Micropayments)](https://dev.to/pathak_prakarsh/x402-finally-payments-built-for-the-internet-not-bolted-onto-it-1058)
+- [SmartFlow Weekly Intel](https://smartflowproai.substack.com) - Weekly newsletter on x402 network health, facilitator behavior, and endpoint forensics. Free, archived publicly.
 
 ### Videos
 - [x402: Building Tools for AI agents, Demos, and Use-Cases](https://www.youtube.com/watch?v=Nodgp7fiPQc&t=197s)
