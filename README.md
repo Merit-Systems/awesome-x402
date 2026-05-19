@@ -29,6 +29,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Ecosystem
 - [AgentStatus](https://github.com/EvanRMora/agentstatus) - Heartbeat and cron monitoring API for AI agents with x402 micropayments, MCP tools, and multi-channel alerts.
+- [AgentIAM (Achilles EP)](https://achillesalpha.com) - Agent identity & safety layer with 18 x402-payable endpoints on Base Mainnet: execution integrity (NoLeak), state verification (MemGuard), risk scoring (RiskOracle), sandboxed exec (SecureExec), full orchestration (FlowCore), code audit, validate, research, DELPHI intelligence + knowledge graph (entity/query/timeline/contradictions), real-time signals (latest/query/publish). $0.001-$0.05 USDC/call. Indexed on [x402scan](https://www.x402scan.com/server/de9dbadb-6475-43f2-a621-a805fb1c661e) and [402index](https://402index.io). ([Docs](https://achillesalpha.com/docs))
 - [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
 - [AgentZone](https://agentzone.fun/) - Unified explorer for trustless AI agents, combining ERC-8004 identity, x402 payment history, reputation signals, and live service status across Base and Arbitrum.
 - [Pyrimid](https://pyrimid.ai/) - Agent-to-agent commerce infrastructure for x402 and ERC-8004, with MCP-native service discovery and onchain payment splitting through PyrimidRouter. ([Proof](https://pyrimid.ai/proof))
