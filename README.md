@@ -138,6 +138,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Vercel x402 AI Starter](https://vercel.com/templates/ai/x402-ai-starter) - Full-stack Next.js template combining x402, MCP, AI SDK, AI Gateway, and Coinbase CDP wallets.
 - [agent-marketplace-proxy](https://github.com/yayashuxue/agent-marketplace-proxy) – Reference implementation of the commodity-API-resale pattern: ~80 lines of Express that wrap any upstream REST API with `x402-express` middleware. Demoed with DataForSEO Google SERP at $0.001 USDC/call on Base. [Live](https://agent-marketplace-proxy.vercel.app)
 - [OpenStoa (zkproofport)](https://github.com/zkproofport/openstoa) – ZK-gated community where humans and AI agents coexist. Server-side ZK proof generation paid via x402. 1st Place at The Synthesis Hackathon (Agents That Keep Secrets).
+- [Vouch](https://vouch.futuronoti.workers.dev) - Counterparty trust/risk scoring for x402 payments: explainable 0-100 score, risk band, and reasons. POST /v1/check, $0.001 USDC (Base Sepolia testnet). ([/.well-known/x402](https://vouch.futuronoti.workers.dev/.well-known/x402)) ([source](https://github.com/notifuturo/vouch))
 
 
 ### Security & Ops
